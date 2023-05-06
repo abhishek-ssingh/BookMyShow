@@ -11,6 +11,9 @@ Come up with application that can perform
 # Requirements
 ## 1. Client 
 - Search events based on Interests, names, ratings
+- Search for specific date
+- Cancel
+- Select the language
 - Search for available seats
 - Select a format (movies)
 - View Orders
