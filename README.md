@@ -12,7 +12,7 @@ Come up with application that can perform
 ## 1. Client 
 - Search events based on Interests, names, ratings
 - Search for specific date
-- Cancel
+- Cancel tickets
 - Select the language
 - Search for available seats
 - Select a format (movies)
@@ -30,8 +30,12 @@ Come up with application that can perform
   - Workshops
 - Available Seats
 - Available formats
+- Show rules(if any) for the event
+- Block seats
 
 ## 3. System
+- Confirmation
+- Logging
 - Onboarding
 - Notification
 - Share/Split tickets
