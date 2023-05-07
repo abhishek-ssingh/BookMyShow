@@ -43,3 +43,9 @@ Come up with application that can perform
 - Payments
 
 
+# UML Diagram
+![uml](https://user-images.githubusercontent.com/69783812/236660957-07da070d-1577-4a8c-a825-f07e761a5213.png)
+
+
+
+
